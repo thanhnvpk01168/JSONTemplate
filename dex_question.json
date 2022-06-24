@@ -1,0 +1,47 @@
+{
+    "data":[
+        {
+            "type":"score",
+            "question":[
+                "How is your experience with",
+                "?"
+            ],
+            "answers":[
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "type":"score",
+            "question":[
+                "How easy is",
+                "to use ?"
+            ],
+            "answers":[
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "type":"type",
+            "question":[
+                "Share with us your opinions about",
+                "?"
+            ],
+            "answers":[
+                "An issue",
+                "A suggestion",
+                "A compliment",
+                "others"
+            ]
+        },
+        {
+            "type":"content",
+            "place_holder":"Type something here..."
+        }
+    ]
+}
