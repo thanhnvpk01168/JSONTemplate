@@ -1,10 +1,10 @@
 {
     "data":[
         {
-            "type":"score",
+            "type":"select_score",
             "question":[
                 "How is your experience with",
-                "?"
+                " ?"
             ],
             "answers":[
                 1,
@@ -14,10 +14,10 @@
             ]
         },
         {
-            "type":"score",
+            "type":"select_score",
             "question":[
                 "How easy is",
-                "to use ?"
+                " to use ?"
             ],
             "answers":[
                 1,
@@ -27,10 +27,10 @@
             ]
         },
         {
-            "type":"type",
+            "type":"radio",
             "question":[
                 "Share with us your opinions about",
-                "?"
+                " ?"
             ],
             "answers":[
                 "An issue",
@@ -40,7 +40,7 @@
             ]
         },
         {
-            "type":"content",
+            "type":"other",
             "place_holder":"Type something here..."
         }
     ]
