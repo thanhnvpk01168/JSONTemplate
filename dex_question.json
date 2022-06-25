@@ -54,7 +54,7 @@
         },
         {
             "type":"button_submit",
-            "button":[
+            "buttons":[
                 {"type":"submit","label":"Submit"},
                 {"type":"cancel","label":"Later"}
             ]
