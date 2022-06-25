@@ -3,7 +3,7 @@
         {
             "type":"select_score",
             "question":[
-                "How is your experience with",
+                "How is your experience with ",
                 " ?"
             ],
             "answers":[
@@ -16,7 +16,7 @@
         {
             "type":"select_score",
             "question":[
-                "How easy is",
+                "How easy is ",
                 " to use ?"
             ],
             "answers":[
@@ -29,7 +29,7 @@
         {
             "type":"radio",
             "question":[
-                "Share with us your opinions about",
+                "Share with us your opinions about ",
                 " ?"
             ],
             "answers":[
