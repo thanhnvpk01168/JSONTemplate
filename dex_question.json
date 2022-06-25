@@ -2,6 +2,7 @@
     "data":[
         {
             "type":"select_score",
+            "hide":false,
             "question":[
                 "How is your experience with ",
                 " ?"
@@ -16,6 +17,7 @@
         },
         {
             "type":"select_score",
+            "hide":false,
             "question":[
                 "How easy is ",
                 " to use ?"
@@ -30,6 +32,7 @@
         },
         {
             "type":"radio",
+            "hide":false,
             "question":[
                 "Share with us your opinions about ",
                 " ?"
@@ -43,10 +46,18 @@
         },
         {
             "type":"other",
+            "hide":false,
             "question":[
                 "Tell me, what would you improve?"
             ],
             "place_holder":"Type something here..."
+        },
+        {
+            "type":"button_submit",
+            "button":[
+                "Later",
+                "Submit"
+            ]
         }
     ]
 }
