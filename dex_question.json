@@ -43,6 +43,9 @@
         },
         {
             "type":"other",
+            "question":[
+                "Tell me, what would you improve?"
+            ],
             "place_holder":"Type something here..."
         }
     ]
