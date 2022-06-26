@@ -1,0 +1,63 @@
+{
+    "data":[
+        {
+            "type":"select_score",
+            "hide":false,
+            "question":[
+                "How is your experience with ",
+                " ?"
+            ],
+            "answers":[
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "type":"select_score",
+            "hide":false,
+            "question":[
+                "How easy is ",
+                " to use ?"
+            ],
+            "answers":[
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "type":"radio",
+            "hide":false,
+            "question":[
+                "Share with us your opinions about ",
+                " ?"
+            ],
+            "answers":[
+                "An issue",
+                "A suggestion",
+                "A compliment",
+                "Others"
+            ]
+        },
+        {
+            "type":"other",
+            "hide":false,
+            "question":[
+                "Tell me, what would you improve?"
+            ],
+            "place_holder":"Type something here..."
+        },
+        {
+            "type":"button_submit",
+            "buttons":[                
+                {"type":"cancel","label":"Later"},
+                {"type":"submit","label":"Submit"}
+            ]
+        }
+    ]
+}
