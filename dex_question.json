@@ -1,8 +1,8 @@
 {
     "data":[
         {
-            "type-render":"select_score",
-            "type-submit":"Usefulness Score",
+            "type_render":"select_score",
+            "type_submit":"Usefulness Score",
             "type":"select_score",
             "hide":false,
             "question":[
@@ -18,8 +18,8 @@
             ]
         },
         {
-            "type-render":"select_score",
-            "type-submit":"Usability Score",
+            "type_render":"select_score",
+            "type_submit":"Usability Score",
             "hide":false,
             "question":[
                 "How easy is ",
@@ -34,8 +34,8 @@
             ]
         },
         {
-            "type-render":"radio",
-            "type-submit":"Feedback Type",
+            "type_render":"radio",
+            "type_submit":"Feedback Type",
             "hide":false,
             "question":[
                 "Share with us your opinions about ",
@@ -49,8 +49,8 @@
             ]
         },
         {
-            "type-render":"other",
-            "type-submit":"Feedback Content",
+            "type_render":"other",
+            "type_submit":"Feedback Content",
             "hide":false,
             "question":[
                 "Tell me, what would you improve?"
@@ -58,7 +58,7 @@
             "place_holder":"Type something here..."
         },
         {
-            "type-render":"button_submit",
+            "type_render":"button_submit",
             "buttons":[                
                 {"type":"cancel","label":"Later"},
                 {"type":"submit","label":"Submit"}
