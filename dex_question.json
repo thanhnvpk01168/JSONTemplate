@@ -4,7 +4,7 @@
             "type_render":"select_score",
             "type_submit":"usefulness_score",
             "type":"select_score",
-            "hide":false,
+            "hide":true,
             "question":[
                 "How is your experience with ",
                 " ?"
