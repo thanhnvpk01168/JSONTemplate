@@ -2,7 +2,7 @@
     "data":[
         {
             "type_render":"select_score",
-            "type_submit":"Usefulness Score",
+            "type_submit":"usefulness_score",
             "type":"select_score",
             "hide":false,
             "question":[
@@ -19,7 +19,7 @@
         },
         {
             "type_render":"select_score",
-            "type_submit":"Usability Score",
+            "type_submit":"usability_score",
             "hide":false,
             "question":[
                 "How easy is ",
@@ -35,7 +35,7 @@
         },
         {
             "type_render":"radio",
-            "type_submit":"Feedback Type",
+            "type_submit":"feedback_type",
             "hide":false,
             "question":[
                 "Share with us your opinions about ",
@@ -50,7 +50,7 @@
         },
         {
             "type_render":"other",
-            "type_submit":"Feedback Content",
+            "type_submit":"feedback_content",
             "hide":false,
             "question":[
                 "Tell me, what would you improve?"
