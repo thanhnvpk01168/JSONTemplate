@@ -5,7 +5,7 @@
             "type_submit":"usefulness_score",
             "type":"select_score",
             "hide":false,
-            "isRequired":false,
+            "isRequired":true,
             "question":[
                 "How is your experience with ",
                 " ?"
