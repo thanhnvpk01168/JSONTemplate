@@ -2,7 +2,7 @@
     "data":[
         {
             "type_render":"select_score",
-            "type_submit":"usefulness_score",
+            "type_submit":"usefullness",
             "type":"select_score",
             "hide":false,
             "isRequired":true,
@@ -20,7 +20,7 @@
         },
         {
             "type_render":"select_score",
-            "type_submit":"usability_score",
+            "type_submit":"usability",
             "hide":false,
             "isRequired":true,
             "question":[
