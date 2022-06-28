@@ -45,10 +45,10 @@
                 " ?"
             ],
             "answers":[
-                "An issue",
-                "A suggestion",
-                "A compliment",
-                "Others"
+                {"ui":"An issue","be":"An Issue"},
+                {"ui":"A suggestion","be":"A Suggestion"},
+                {"ui":"A compliment","be":"A Compliment"},
+                {"ui":"Others","be":"Others"}
             ]
         },
         {
