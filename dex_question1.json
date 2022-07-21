@@ -1,0 +1,85 @@
+{
+  "data_dex_initiated": [
+    {
+      "id": "id1",
+      "type": "select_score",
+      "question_key": "UM",
+      "hide": false,
+      "isRequired": true,
+      "question": ["How useful is ", " to your task?"],
+      "answers": [1, 2, 3, 4, 5]
+    },
+    {
+      "id": "id2",
+      "type": "select_score",
+      "question_key": "UX",
+      "hide": false,
+      "isRequired": true,
+      "question": ["How easy is ", " to you ?"],
+      "answers": [1, 2, 3, 4, 5]
+    },
+    {
+      "id": "id3",
+      "type": "radio",
+      "question_key": "COMMENT",
+      "hide": false,
+      "isRequired": true,
+      "question": ["Share with us your opinions about ", " ?"],
+      "answers": ["An issue", "A suggestion", "A compliment", "Others"]
+    },
+    {
+      "id": "id4",
+      "type": "text-area",
+      "question_key": "COMMENT",
+      "hide": false,
+      "isRequired": true,
+      "question": ["Tell me, what would you improve?"],
+      "place_holder": "Type something here..."
+    },
+    {
+      "id": "id5",
+      "type": "button_submit",
+      "buttons": [
+        { "type": "cancel", "label": "Later" },
+        { "type": "submit", "label": "Submit" }
+      ]
+    }
+  ],
+  "data_user_initiated": [
+    {
+      "id": "id1",
+      "type": "select_score",
+      "question_key": "Rating",
+      "hide": false,
+      "isRequired": true,
+      "question": ["We want your feedbacks. What do you think about ", " ?"],
+      "answers": [1, 2, 3, 4, 5]
+    },
+    {
+      "id": "id2",
+      "type": "radio",
+      "question_key": "COMMENT",
+      "hide": false,
+      "isRequired": true,
+      "question": ["Share with us your opinions about ", " ?"],
+      "answers": ["An issue", "A suggestion", "A compliment", "Others"]
+    },
+    {
+      "id": "id3",
+      "type": "text-area",
+      "question_key": "COMMENT",
+      "hide": false,
+      "isRequired": true,
+      "question": ["Tell me, what would you improve?"],
+      "place_holder": "Type something here..."
+    },
+    {
+      "id": "id4",
+      "type": "button_submit",
+      "buttons": [
+        { "type": "cancel", "label": "Later" },
+        { "type": "submit", "label": "Submit" }
+      ]
+    }
+  ]
+}
