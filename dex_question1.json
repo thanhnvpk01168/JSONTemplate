@@ -25,7 +25,7 @@
       "type": "radio",
       "question_key": "COMMENT",
       "hide": false,
-      "isRequired": true,
+      "isRequired": false,
       "question": ["Share with us your opinions about ", " ?"],
       "answers": ["An issue", "A suggestion", "A compliment", "Others"],
       "type_submit":"TEXT"
@@ -35,7 +35,7 @@
       "type": "text-area",
       "question_key": "COMMENT",
       "hide": false,
-      "isRequired": true,
+      "isRequired": false,
       "question": ["Tell me, what would you improve?"],
       "place_holder": "Type something here...",
       "type_submit":"TEXT"
@@ -65,7 +65,7 @@
       "type": "radio",
       "question_key": "COMMENT",
       "hide": false,
-      "isRequired": true,
+      "isRequired": false,
       "question": ["Share with us your opinions about ", " ?"],
       "answers": ["An issue", "A suggestion", "A compliment", "Others"],
       "type_submit":"TEXT"
@@ -75,7 +75,7 @@
       "type": "text-area",
       "question_key": "COMMENT",
       "hide": false,
-      "isRequired": true,
+      "isRequired": false,
       "question": ["Tell me, what would you improve?"],
       "place_holder": "Type something here...",
       "type_submit":"TEXT"
