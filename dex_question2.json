@@ -16,7 +16,7 @@
       "question_key": "UX",
       "hide": false,
       "isRequired": true,
-      "question": ["How easy to use is ", " ?"],
+      "question": ["How easy is it to use ", " ?"],
       "answers": [1, 2, 3, 4, 5],
       "type_submit":"NUMBER_CHOOSE"
     },
