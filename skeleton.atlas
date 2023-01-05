@@ -1,794 +1,354 @@
-
 skeleton.png
-size: 2013,1961
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2013,1961
+filter:Linear,Linear
+pma:true
+scale:0.5
 State_1/Animation/Leave_1
-  rotate: false
-  xy: 999, 1436
-  size: 260, 158
-  orig: 314, 197
-  offset: 38, 39
-  index: -1
+bounds:999,1436,260,158
+offsets:38,39,314,197
 State_1/Animation/Leave_2
-  rotate: true
-  xy: 2, 1312
-  size: 193, 262
-  orig: 218, 283
-  offset: 15, 13
-  index: -1
+bounds:2,1312,193,262
+offsets:15,13,218,283
+rotate:90
 State_1/Animation/Shadow
-  rotate: false
-  xy: 2, 1035
-  size: 1987, 202
-  orig: 1999, 3553
-  offset: 0, 1720
-  index: -1
+bounds:2,1035,1987,202
+offsets:0,1720,1999,3553
 State_2/Animation/Shadow
-  rotate: false
-  xy: 2, 1035
-  size: 1987, 202
-  orig: 1999, 3553
-  offset: 0, 1720
-  index: -1
+bounds:2,1035,1987,202
+offsets:0,1720,1999,3553
 State_3/Animation/Shadow
-  rotate: false
-  xy: 2, 1035
-  size: 1987, 202
-  orig: 1999, 3553
-  offset: 0, 1720
-  index: -1
+bounds:2,1035,1987,202
+offsets:0,1720,1999,3553
 State_4/Animation/Shadow
-  rotate: false
-  xy: 2, 1035
-  size: 1987, 202
-  orig: 1999, 3553
-  offset: 0, 1720
-  index: -1
+bounds:2,1035,1987,202
+offsets:0,1720,1999,3553
 State_1/Animation/Tree_1/Leave_1
-  rotate: true
-  xy: 1129, 1751
-  size: 120, 196
-  orig: 120, 196
-  offset: 0, 0
-  index: -1
+bounds:1129,1751,120,196
+rotate:90
 State_1/Animation/Tree_1/Leave_2
-  rotate: false
-  xy: 611, 1495
-  size: 192, 166
-  orig: 192, 166
-  offset: 0, 0
-  index: -1
+bounds:611,1495,192,166
 State_1/Animation/Tree_1/Leave_3
-  rotate: false
-  xy: 1832, 1558
-  size: 179, 154
-  orig: 179, 154
-  offset: 0, 0
-  index: -1
+bounds:1832,1558,179,154
 State_1/Animation/Tree_1/Leave_4
-  rotate: false
-  xy: 1523, 1382
-  size: 184, 180
-  orig: 184, 180
-  offset: 0, 0
-  index: -1
+bounds:1523,1382,184,180
 State_1/Animation/Tree_1/Leave_5
-  rotate: true
-  xy: 682, 1900
-  size: 59, 240
-  orig: 59, 240
-  offset: 0, 0
-  index: -1
+bounds:682,1900,59,240
+rotate:90
 State_1/Animation/Tree_1/Leave_6
-  rotate: false
-  xy: 1525, 1728
-  size: 146, 126
-  orig: 146, 126
-  offset: 0, 0
-  index: -1
+bounds:1525,1728,146,126
 State_1/Animation/Tree_1/Mid
-  rotate: true
-  xy: 200, 1910
-  size: 49, 69
-  orig: 49, 69
-  offset: 0, 0
-  index: -1
+bounds:200,1910,49,69
+rotate:90
 State_1/Animation/Tree_1/Trunk
-  rotate: true
-  xy: 346, 1663
-  size: 128, 503
-  orig: 128, 503
-  offset: 0, 0
-  index: -1
+bounds:346,1663,128,503
+rotate:90
 State_2/Animation/Tree_1/Trunk
-  rotate: true
-  xy: 346, 1663
-  size: 128, 503
-  orig: 128, 503
-  offset: 0, 0
-  index: -1
+bounds:346,1663,128,503
+rotate:90
 State_3/Animation/Tree_1/Trunk
-  rotate: true
-  xy: 346, 1663
-  size: 128, 503
-  orig: 128, 503
-  offset: 0, 0
-  index: -1
+bounds:346,1663,128,503
+rotate:90
 State_4/Animation/Tree_1/Trunk
-  rotate: true
-  xy: 346, 1663
-  size: 128, 503
-  orig: 128, 503
-  offset: 0, 0
-  index: -1
+bounds:346,1663,128,503
+rotate:90
 State_1/Animation/Tree_2/Leave_2
-  rotate: true
-  xy: 1166, 1873
-  size: 86, 138
-  orig: 86, 138
-  offset: 0, 0
-  index: -1
+bounds:1166,1873,86,138
+rotate:90
 State_2/Animation/Tree_2/Leave_2
-  rotate: true
-  xy: 1166, 1873
-  size: 86, 138
-  orig: 86, 138
-  offset: 0, 0
-  index: -1
+bounds:1166,1873,86,138
+rotate:90
 State_1/Animation/Tree_2/Leave_3
-  rotate: false
-  xy: 342, 1905
-  size: 168, 54
-  orig: 168, 54
-  offset: 0, 0
-  index: -1
+bounds:342,1905,168,54
 State_2/Animation/Tree_2/Leave_3
-  rotate: false
-  xy: 342, 1905
-  size: 168, 54
-  orig: 168, 54
-  offset: 0, 0
-  index: -1
+bounds:342,1905,168,54
 State_1/Animation/Tree_2/Leave_4
-  rotate: true
-  xy: 193, 1667
-  size: 129, 151
-  orig: 129, 151
-  offset: 0, 0
-  index: -1
+bounds:193,1667,129,151
+rotate:90
 State_2/Animation/Tree_2/Leave_4
-  rotate: true
-  xy: 193, 1667
-  size: 129, 151
-  orig: 129, 151
-  offset: 0, 0
-  index: -1
+bounds:193,1667,129,151
+rotate:90
 State_1/Animation/Tree_2/Leave_5
-  rotate: true
-  xy: 1446, 1856
-  size: 103, 157
-  orig: 103, 157
-  offset: 0, 0
-  index: -1
+bounds:1446,1856,103,157
+rotate:90
 State_2/Animation/Tree_2/Leave_5
-  rotate: true
-  xy: 1446, 1856
-  size: 103, 157
-  orig: 103, 157
-  offset: 0, 0
-  index: -1
+bounds:1446,1856,103,157
+rotate:90
 State_1/Animation/Tree_2/Trunk
-  rotate: true
-  xy: 2, 1798
-  size: 105, 440
-  orig: 105, 440
-  offset: 0, 0
-  index: -1
+bounds:2,1798,105,440
+rotate:90
 State_2/Animation/Tree_2/Trunk
-  rotate: true
-  xy: 2, 1798
-  size: 105, 440
-  orig: 105, 440
-  offset: 0, 0
-  index: -1
+bounds:2,1798,105,440
+rotate:90
 State_1/Animation/Tree_3/Leave_1
-  rotate: true
-  xy: 1821, 1714
-  size: 127, 189
-  orig: 127, 189
-  offset: 0, 0
-  index: -1
+bounds:1821,1714,127,189
+rotate:90
 State_2/Animation/Tree_3/Leave_1
-  rotate: true
-  xy: 1821, 1714
-  size: 127, 189
-  orig: 127, 189
-  offset: 0, 0
-  index: -1
+bounds:1821,1714,127,189
+rotate:90
 State_1/Animation/Tree_3/Leave_2
-  rotate: false
-  xy: 1004, 1613
-  size: 204, 136
-  orig: 204, 136
-  offset: 0, 0
-  index: -1
+bounds:1004,1613,204,136
 State_2/Animation/Tree_3/Leave_2
-  rotate: false
-  xy: 1004, 1613
-  size: 204, 136
-  orig: 204, 136
-  offset: 0, 0
-  index: -1
+bounds:1004,1613,204,136
 State_1/Animation/Tree_3/Leave_3
-  rotate: false
-  xy: 1764, 1843
-  size: 241, 116
-  orig: 241, 116
-  offset: 0, 0
-  index: -1
+bounds:1764,1843,241,116
 State_2/Animation/Tree_3/Leave_3
-  rotate: false
-  xy: 1764, 1843
-  size: 241, 116
-  orig: 241, 116
-  offset: 0, 0
-  index: -1
+bounds:1764,1843,241,116
 State_1/Animation/Tree_3/Leave_4
-  rotate: true
-  xy: 1416, 1578
-  size: 148, 206
-  orig: 148, 206
-  offset: 0, 0
-  index: -1
+bounds:1416,1578,148,206
+rotate:90
 State_2/Animation/Tree_3/Leave_4
-  rotate: true
-  xy: 1416, 1578
-  size: 148, 206
-  orig: 148, 206
-  offset: 0, 0
-  index: -1
+bounds:1416,1578,148,206
+rotate:90
 State_1/Animation/Tree_3/Leave_5
-  rotate: true
-  xy: 183, 1507
-  size: 154, 212
-  orig: 154, 212
-  offset: 0, 0
-  index: -1
+bounds:183,1507,154,212
+rotate:90
 State_2/Animation/Tree_3/Leave_5
-  rotate: true
-  xy: 183, 1507
-  size: 154, 212
-  orig: 154, 212
-  offset: 0, 0
-  index: -1
+bounds:183,1507,154,212
+rotate:90
 State_1/Animation/Tree_3/Mid
-  rotate: true
-  xy: 2, 1914
-  size: 45, 97
-  orig: 45, 97
-  offset: 0, 0
-  index: -1
+bounds:2,1914,45,97
+rotate:90
 State_2/Animation/Tree_3/Mid
-  rotate: true
-  xy: 2, 1914
-  size: 45, 97
-  orig: 45, 97
-  offset: 0, 0
-  index: -1
+bounds:2,1914,45,97
+rotate:90
 State_1/Animation/Tree_3/Trunk
-  rotate: true
-  xy: 530, 1239
-  size: 195, 554
-  orig: 195, 554
-  offset: 0, 0
-  index: -1
+bounds:530,1239,195,554
+rotate:90
 State_2/Animation/Tree_3/Trunk
-  rotate: true
-  xy: 530, 1239
-  size: 195, 554
-  orig: 195, 554
-  offset: 0, 0
-  index: -1
+bounds:530,1239,195,554
+rotate:90
 State_3/Animation/Tree_3/Trunk
-  rotate: true
-  xy: 530, 1239
-  size: 195, 554
-  orig: 195, 554
-  offset: 0, 0
-  index: -1
+bounds:530,1239,195,554
+rotate:90
 State_4/Animation/Tree_3/Trunk
-  rotate: true
-  xy: 530, 1239
-  size: 195, 554
-  orig: 195, 554
-  offset: 0, 0
-  index: -1
+bounds:530,1239,195,554
+rotate:90
 State_2/Animation/Leave_1
-  rotate: false
-  xy: 1261, 1418
-  size: 260, 158
-  orig: 314, 197
-  offset: 38, 39
-  index: -1
+bounds:1261,1418,260,158
+offsets:38,39,314,197
 State_3/Animation/Leave_1
-  rotate: false
-  xy: 1261, 1418
-  size: 260, 158
-  orig: 314, 197
-  offset: 38, 39
-  index: -1
+bounds:1261,1418,260,158
+offsets:38,39,314,197
 State_4/Animation/Leave_1
-  rotate: false
-  xy: 1261, 1418
-  size: 260, 158
-  orig: 314, 197
-  offset: 38, 39
-  index: -1
+bounds:1261,1418,260,158
+offsets:38,39,314,197
 State_2/Animation/Leave_2
-  rotate: true
-  xy: 266, 1312
-  size: 193, 262
-  orig: 218, 283
-  offset: 15, 13
-  index: -1
+bounds:266,1312,193,262
+offsets:15,13,218,283
+rotate:90
 State_3/Animation/Leave_2
-  rotate: true
-  xy: 266, 1312
-  size: 193, 262
-  orig: 218, 283
-  offset: 15, 13
-  index: -1
+bounds:266,1312,193,262
+offsets:15,13,218,283
+rotate:90
 State_4/Animation/Leave_2
-  rotate: true
-  xy: 266, 1312
-  size: 193, 262
-  orig: 218, 283
-  offset: 15, 13
-  index: -1
+bounds:266,1312,193,262
+offsets:15,13,218,283
+rotate:90
 State_2/Animation/Tree_1/Leave_1
-  rotate: true
-  xy: 1327, 1734
-  size: 120, 196
-  orig: 120, 196
-  offset: 0, 0
-  index: -1
+bounds:1327,1734,120,196
+rotate:90
 State_3/Animation/Tree_1/Leave_1
-  rotate: true
-  xy: 1327, 1734
-  size: 120, 196
-  orig: 120, 196
-  offset: 0, 0
-  index: -1
+bounds:1327,1734,120,196
+rotate:90
 State_4/Animation/Tree_1/Leave_1
-  rotate: true
-  xy: 1327, 1734
-  size: 120, 196
-  orig: 120, 196
-  offset: 0, 0
-  index: -1
+bounds:1327,1734,120,196
+rotate:90
 State_2/Animation/Tree_1/Leave_2
-  rotate: false
-  xy: 805, 1483
-  size: 192, 166
-  orig: 192, 166
-  offset: 0, 0
-  index: -1
+bounds:805,1483,192,166
 State_3/Animation/Tree_1/Leave_2
-  rotate: false
-  xy: 805, 1483
-  size: 192, 166
-  orig: 192, 166
-  offset: 0, 0
-  index: -1
+bounds:805,1483,192,166
 State_4/Animation/Tree_1/Leave_2
-  rotate: false
-  xy: 805, 1483
-  size: 192, 166
-  orig: 192, 166
-  offset: 0, 0
-  index: -1
+bounds:805,1483,192,166
 State_2/Animation/Tree_1/Leave_3
-  rotate: false
-  xy: 2, 1513
-  size: 179, 154
-  orig: 179, 154
-  offset: 0, 0
-  index: -1
+bounds:2,1513,179,154
 State_3/Animation/Tree_1/Leave_3
-  rotate: false
-  xy: 2, 1513
-  size: 179, 154
-  orig: 179, 154
-  offset: 0, 0
-  index: -1
+bounds:2,1513,179,154
 State_4/Animation/Tree_1/Leave_3
-  rotate: false
-  xy: 2, 1513
-  size: 179, 154
-  orig: 179, 154
-  offset: 0, 0
-  index: -1
+bounds:2,1513,179,154
 State_2/Animation/Tree_1/Leave_4
-  rotate: false
-  xy: 1709, 1376
-  size: 184, 180
-  orig: 184, 180
-  offset: 0, 0
-  index: -1
+bounds:1709,1376,184,180
 State_3/Animation/Tree_1/Leave_4
-  rotate: false
-  xy: 1709, 1376
-  size: 184, 180
-  orig: 184, 180
-  offset: 0, 0
-  index: -1
+bounds:1709,1376,184,180
 State_4/Animation/Tree_1/Leave_4
-  rotate: false
-  xy: 1709, 1376
-  size: 184, 180
-  orig: 184, 180
-  offset: 0, 0
-  index: -1
+bounds:1709,1376,184,180
 State_2/Animation/Tree_1/Leave_5
-  rotate: true
-  xy: 924, 1900
-  size: 59, 240
-  orig: 59, 240
-  offset: 0, 0
-  index: -1
+bounds:924,1900,59,240
+rotate:90
 State_3/Animation/Tree_1/Leave_5
-  rotate: true
-  xy: 924, 1900
-  size: 59, 240
-  orig: 59, 240
-  offset: 0, 0
-  index: -1
+bounds:924,1900,59,240
+rotate:90
 State_4/Animation/Tree_1/Leave_5
-  rotate: true
-  xy: 924, 1900
-  size: 59, 240
-  orig: 59, 240
-  offset: 0, 0
-  index: -1
+bounds:924,1900,59,240
+rotate:90
 State_2/Animation/Tree_1/Leave_6
-  rotate: false
-  xy: 1673, 1715
-  size: 146, 126
-  orig: 146, 126
-  offset: 0, 0
-  index: -1
+bounds:1673,1715,146,126
 State_3/Animation/Tree_1/Leave_6
-  rotate: false
-  xy: 1673, 1715
-  size: 146, 126
-  orig: 146, 126
-  offset: 0, 0
-  index: -1
+bounds:1673,1715,146,126
 State_4/Animation/Tree_1/Leave_6
-  rotate: false
-  xy: 1673, 1715
-  size: 146, 126
-  orig: 146, 126
-  offset: 0, 0
-  index: -1
+bounds:1673,1715,146,126
 State_2/Animation/Tree_1/Mid
-  rotate: true
-  xy: 271, 1910
-  size: 49, 69
-  orig: 49, 69
-  offset: 0, 0
-  index: -1
+bounds:271,1910,49,69
+rotate:90
 State_3/Animation/Tree_1/Mid
-  rotate: true
-  xy: 271, 1910
-  size: 49, 69
-  orig: 49, 69
-  offset: 0, 0
-  index: -1
+bounds:271,1910,49,69
+rotate:90
 State_4/Animation/Tree_1/Mid
-  rotate: true
-  xy: 271, 1910
-  size: 49, 69
-  orig: 49, 69
-  offset: 0, 0
-  index: -1
+bounds:271,1910,49,69
+rotate:90
 State_3/Animation/Tree_2/Leave_2
-  rotate: true
-  xy: 1306, 1873
-  size: 86, 138
-  orig: 86, 138
-  offset: 0, 0
-  index: -1
+bounds:1306,1873,86,138
+rotate:90
 State_3/Animation/Tree_2/Leave_3
-  rotate: false
-  xy: 512, 1905
-  size: 168, 54
-  orig: 168, 54
-  offset: 0, 0
-  index: -1
+bounds:512,1905,168,54
 State_3/Animation/Tree_2/Leave_4
-  rotate: true
-  xy: 851, 1651
-  size: 129, 151
-  orig: 129, 151
-  offset: 0, 0
-  index: -1
+bounds:851,1651,129,151
+rotate:90
 State_3/Animation/Tree_2/Leave_5
-  rotate: true
-  xy: 1605, 1856
-  size: 103, 157
-  orig: 103, 157
-  offset: 0, 0
-  index: -1
+bounds:1605,1856,103,157
+rotate:90
 State_3/Animation/Tree_2/Trunk
-  rotate: true
-  xy: 444, 1793
-  size: 105, 440
-  orig: 105, 440
-  offset: 0, 0
-  index: -1
+bounds:444,1793,105,440
+rotate:90
 State_3/Animation/Tree_3/Leave_1
-  rotate: true
-  xy: 2, 1669
-  size: 127, 189
-  orig: 127, 189
-  offset: 0, 0
-  index: -1
+bounds:2,1669,127,189
+rotate:90
 State_4/Animation/Tree_3/Leave_1
-  rotate: true
-  xy: 2, 1669
-  size: 127, 189
-  orig: 127, 189
-  offset: 0, 0
-  index: -1
+bounds:2,1669,127,189
+rotate:90
 State_3/Animation/Tree_3/Leave_2
-  rotate: false
-  xy: 1210, 1596
-  size: 204, 136
-  orig: 204, 136
-  offset: 0, 0
-  index: -1
+bounds:1210,1596,204,136
 State_4/Animation/Tree_3/Leave_2
-  rotate: false
-  xy: 1210, 1596
-  size: 204, 136
-  orig: 204, 136
-  offset: 0, 0
-  index: -1
+bounds:1210,1596,204,136
 State_3/Animation/Tree_3/Leave_3
-  rotate: false
-  xy: 886, 1782
-  size: 241, 116
-  orig: 241, 116
-  offset: 0, 0
-  index: -1
+bounds:886,1782,241,116
 State_4/Animation/Tree_3/Leave_3
-  rotate: false
-  xy: 886, 1782
-  size: 241, 116
-  orig: 241, 116
-  offset: 0, 0
-  index: -1
+bounds:886,1782,241,116
 State_3/Animation/Tree_3/Leave_4
-  rotate: true
-  xy: 1624, 1564
-  size: 148, 206
-  orig: 148, 206
-  offset: 0, 0
-  index: -1
+bounds:1624,1564,148,206
+rotate:90
 State_4/Animation/Tree_3/Leave_4
-  rotate: true
-  xy: 1624, 1564
-  size: 148, 206
-  orig: 148, 206
-  offset: 0, 0
-  index: -1
+bounds:1624,1564,148,206
+rotate:90
 State_3/Animation/Tree_3/Leave_5
-  rotate: true
-  xy: 397, 1507
-  size: 154, 212
-  orig: 154, 212
-  offset: 0, 0
-  index: -1
+bounds:397,1507,154,212
+rotate:90
 State_4/Animation/Tree_3/Leave_5
-  rotate: true
-  xy: 397, 1507
-  size: 154, 212
-  orig: 154, 212
-  offset: 0, 0
-  index: -1
+bounds:397,1507,154,212
+rotate:90
 State_3/Animation/Tree_3/Mid
-  rotate: true
-  xy: 101, 1914
-  size: 45, 97
-  orig: 45, 97
-  offset: 0, 0
-  index: -1
+bounds:101,1914,45,97
+rotate:90
 State_4/Animation/Tree_3/Mid
-  rotate: true
-  xy: 101, 1914
-  size: 45, 97
-  orig: 45, 97
-  offset: 0, 0
-  index: -1
+bounds:101,1914,45,97
+rotate:90
 State_4/Animation/Jungle_2
-  rotate: false
-  xy: 2, 2
-  size: 1437, 605
-  orig: 1999, 3553
-  offset: 562, 1742
-  index: -1
+bounds:2,2,1437,605
+offsets:562,1742,1999,3553
 State_4/Animation/Jungle_3
-  rotate: false
-  xy: 2, 609
-  size: 1998, 424
-  orig: 1999, 3553
-  offset: 1, 1773
-  index: -1
+bounds:2,609,1998,424
+offsets:1,1773,1999,3553
 
-skeleton2.png
-size: 2003,1521
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+skeleton_2.png
+size:2003,1521
+filter:Linear,Linear
+pma:true
+scale:0.5
 State_1/Animation/Jungle_3
-  rotate: false
-  xy: 2, 2
-  size: 1999, 611
-  orig: 1999, 3553
-  offset: 0, 1773
-  index: -1
+bounds:2,2,1999,611
+offsets:0,1773,1999,3553
 State_5/HeroScreen_AllTreesGetCutOff
-  rotate: false
-  xy: 2, 615
-  size: 1999, 904
-  orig: 1999, 3553
-  offset: 0, 1439
-  index: -1
+bounds:2,615,1999,904
+offsets:0,1439,1999,3553
 
-skeleton3.png
-size: 2002,1669
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+skeleton_3.png
+size:2002,1669
+filter:Linear,Linear
+pma:true
+scale:0.5
 State_1/Animation/Jungle_1
-  rotate: false
-  xy: 2, 2
-  size: 1998, 1665
-  orig: 1999, 3553
-  offset: 1, 1439
-  index: -1
+bounds:2,2,1998,1665
+offsets:1,1439,1999,3553
 
-skeleton4.png
-size: 2002,1669
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+skeleton_4.png
+size:2002,1669
+filter:Linear,Linear
+pma:true
+scale:0.5
 State_2/Animation/Jungle_1
-  rotate: false
-  xy: 2, 2
-  size: 1998, 1665
-  orig: 1999, 3553
-  offset: 1, 1439
-  index: -1
+bounds:2,2,1998,1665
+offsets:1,1439,1999,3553
 
-skeleton5.png
-size: 2002,1669
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+skeleton_5.png
+size:2002,1669
+filter:Linear,Linear
+pma:true
+scale:0.5
 State_3/Animation/Jungle_1
-  rotate: false
-  xy: 2, 2
-  size: 1998, 1665
-  orig: 1999, 3553
-  offset: 1, 1439
-  index: -1
+bounds:2,2,1998,1665
+offsets:1,1439,1999,3553
 
-skeleton6.png
-size: 2002,1792
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+skeleton_6.png
+size:2002,1792
+filter:Linear,Linear
+pma:true
+scale:0.5
 State_1/Animation/Jungle_4
-  rotate: false
-  xy: 2, 764
-  size: 1998, 1026
-  orig: 1999, 3553
-  offset: 1, 1740
-  index: -1
+bounds:2,764,1998,1026
+offsets:1,1740,1999,3553
 State_4/Animation/Jungle_1
-  rotate: false
-  xy: 2, 2
-  size: 1998, 760
-  orig: 1999, 3553
-  offset: 1, 1439
-  index: -1
+bounds:2,2,1998,760
+offsets:1,1439,1999,3553
 
-skeleton7.png
-size: 2003,1228
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+skeleton_7.png
+size:2003,1228
+filter:Linear,Linear
+pma:true
+scale:0.5
 State_2/Animation/Jungle_3
-  rotate: false
-  xy: 2, 615
-  size: 1999, 611
-  orig: 1999, 3553
-  offset: 0, 1773
-  index: -1
+bounds:2,615,1999,611
+offsets:0,1773,1999,3553
 State_3/Animation/Jungle_3
-  rotate: false
-  xy: 2, 2
-  size: 1999, 611
-  orig: 1999, 3553
-  offset: 0, 1773
-  index: -1
+bounds:2,2,1999,611
+offsets:0,1773,1999,3553
 
-skeleton8.png
-size: 1419,2018
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+skeleton_8.png
+size:1419,2018
+filter:Linear,Linear
+pma:true
+scale:0.5
 State_1/Animation/Jungle_2
-  rotate: false
-  xy: 2, 1010
-  size: 1415, 1006
-  orig: 1999, 3553
-  offset: 584, 1742
-  index: -1
+bounds:2,1010,1415,1006
+offsets:584,1742,1999,3553
 State_2/Animation/Jungle_2
-  rotate: false
-  xy: 2, 2
-  size: 1415, 1006
-  orig: 1999, 3553
-  offset: 584, 1742
-  index: -1
+bounds:2,2,1415,1006
+offsets:584,1742,1999,3553
 
-skeleton9.png
-size: 2002,2038
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+skeleton_9.png
+size:2002,2038
+filter:Linear,Linear
+pma:true
+scale:0.5
 State_2/Animation/Jungle_4
-  rotate: false
-  xy: 2, 1010
-  size: 1998, 1026
-  orig: 1999, 3553
-  offset: 1, 1740
-  index: -1
+bounds:2,1010,1998,1026
+offsets:1,1740,1999,3553
 State_3/Animation/Jungle_2
-  rotate: false
-  xy: 2, 2
-  size: 1415, 1006
-  orig: 1999, 3553
-  offset: 584, 1742
-  index: -1
+bounds:2,2,1415,1006
+offsets:584,1742,1999,3553
 
-skeleton10.png
-size: 2002,1030
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+skeleton_10.png
+size:2002,1030
+filter:Linear,Linear
+pma:true
+scale:0.5
 State_3/Animation/Jungle_4
-  rotate: false
-  xy: 2, 2
-  size: 1998, 1026
-  orig: 1999, 3553
-  offset: 1, 1740
-  index: -1
+bounds:2,2,1998,1026
+offsets:1,1740,1999,3553
 
-skeleton11.png
-size: 2002,1030
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+skeleton_11.png
+size:2002,1030
+filter:Linear,Linear
+pma:true
+scale:0.5
 State_4/Animation/Jungle_4
-  rotate: false
-  xy: 2, 2
-  size: 1998, 1026
-  orig: 1999, 3553
-  offset: 1, 1740
-  index: -1
+bounds:2,2,1998,1026
+offsets:1,1740,1999,3553
