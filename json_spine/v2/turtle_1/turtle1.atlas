@@ -1,0 +1,33 @@
+turtle1.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+Body
+bounds:0,388,497,356
+offsets:0,0,498,356
+Eye
+bounds:753,680,50,64
+Head
+bounds:0,179,279,209
+Layer 107
+bounds:0,0,722,169
+offsets:8,3,740,180
+Leaf 1
+bounds:759,52,265,98
+Leaf 2
+bounds:497,616,59,105
+Leg_1
+bounds:840,489,255,176
+offsets:4,0,259,176
+rotate:90
+Leg_2
+bounds:389,203,214,124
+Leg_3
+bounds:352,187,186,54
+Shadow_neck
+bounds:279,233,110,155
+offsets:20,19,140,185
+Trap
+bounds:478,137,607,468
+rotate:270
