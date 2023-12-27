@@ -1,0 +1,92 @@
+{
+  "version":"",
+  "data_dex_initiated": [
+    {
+      "id": "id1",
+      "type": "select_score",
+      "question_key": "UM",
+      "hide": false,
+      "isRequired": true,
+      "question": ["Does", "meet your requirements?"],
+      "i18n_question": ["does", "meet_your_requirements"],
+      "answers": [1, 2, 3, 4, 5],
+      "type_submit":"NUMBER_CHOOSE"
+    },
+    {
+      "id": "id2",
+      "type": "select_score",
+      "question_key": "UX",
+      "hide": false,
+      "isRequired": true,
+      "question": ["How easy is it to use", "?"],
+      "i18n_question": ["how_easy_is_it_to_use", "?"],
+      "answers": [1, 2, 3, 4, 5],
+      "type_submit":"NUMBER_CHOOSE"
+    },
+    {
+      "id": "id4",
+      "type": "text-area",
+      "question_key": "COMMENT",
+      "hide": false,
+      "isRequired": false,
+      "question": ["What would you like to share with us?"],
+      "i18n_question": ["what_would_you_like_to_share_with_us"],
+      "place_holder": "Type something here...",      
+      "i18n_place_holder": "type_something_here",
+      "type_submit":"TEXT"
+    },
+    {
+      "id": "id5",
+      "type": "button_submit",
+      "buttons": [
+        { "type": "cancel", "label": "Later", "i18n_label": "later" },
+        { "type": "submit", "label": "Submit", "i18n_label": "submit" }
+      ]
+    }
+  ],
+  "data_user_initiated": [
+    {
+      "id": "id1",
+      "type": "select_score",
+      "question_key": "Rating",
+      "hide": false,
+      "isRequired": true,
+      "question": ["How is your experience with", "?"],
+      "i18n_question": ["how_is_your_experience_with", "?"],
+      "answers": [1, 2, 3, 4, 5],
+      "type_submit":"NUMBER_CHOOSE"
+    },
+    {
+      "id": "id2",
+      "type": "radio",
+      "question_key": "COMMENT",
+      "hide": false,
+      "isRequired": false,
+      "question": ["Please select a category for your feedback", "?"],
+      "i18n_question": ["please_select_a_category_for_your_feedback", "?"],      
+      "answers": ["I have a suggestion", "I want to report an issue or bug", "I don't know what to do", "I want to explain my rating"],
+      "i18n_answers": ["i_have_a_suggestion", "i_want_to_report_an_issue_or_bug", "i_dont_know_what_to_do", "i_want_to_explain_my_rating"],
+      "type_submit":"TEXT"
+    },
+    {
+      "id": "id3",
+      "type": "text-area",
+      "question_key": "COMMENT",
+      "hide": false,
+      "isRequired": false,
+      "question": ["Share your comments here"],
+      "i18n_question": ["share_your_comments_here"],      
+      "place_holder": "Type something here...",
+      "i18n_place_holder": "type_something_here",
+      "type_submit":"TEXT"
+    },
+    {
+      "id": "id4",
+      "type": "button_submit",
+      "buttons": [
+        { "type": "cancel", "label": "Later", "i18n_label": "later"},
+        { "type": "submit", "label": "Submit", "i18n_label": "submit"}
+      ]
+    }
+  ]
+}
