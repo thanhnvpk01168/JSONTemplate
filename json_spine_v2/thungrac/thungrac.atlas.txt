@@ -1,0 +1,27 @@
+
+thungrac.png
+size: 580,446
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mat trong thung rac
+  rotate: true
+  xy: 412, 224
+  size: 220, 166
+  orig: 220, 176
+  offset: 0, 5
+  index: -1
+nap 2
+  rotate: true
+  xy: 412, 2
+  size: 220, 132
+  orig: 220, 132
+  offset: 0, 0
+  index: -1
+thung rac
+  rotate: false
+  xy: 2, 20
+  size: 408, 424
+  orig: 408, 424
+  offset: 0, 0
+  index: -1
